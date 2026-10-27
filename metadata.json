@@ -1,0 +1,6 @@
+{
+  "name": "AstroPedia - Cosmic Science & Space Portal",
+  "description": "An interactive, free space and science encyclopedia, planetary laboratory, physics sandboxes, educational games, and AI cosmos explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
